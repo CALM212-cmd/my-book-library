@@ -1,1 +1,7 @@
-
+body {background-color: #d2b48c;}
+h1 {color: #5a3e2b;text-align: center;}
+a {color: #5a3e2b;text-decoration:none;} 
+   ul {padding-left:40px;}
+li { margin-bottom: 15px;}
+p {text-align: center;color:#6b4f3a;}
+h2 {font-size: 28px;margin-bottom: 20px;}
